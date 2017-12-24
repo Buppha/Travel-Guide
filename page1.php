@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<title>Travel Guide</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}    
+</style>
+<body class="w3-light-grey">
+<div class="w3-content" style="max-width:1400px">
+
+<!-- Header -->
+<header class="w3-container w3-pink w3-padding-30 w3-center "> 
+  <h1><b>บรรยากาศริมแม่น้ำโขง</b></h1>
+  <h1><p>@ หนองคาย</p></h1>
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    <img src="./img/Rimkong1.jpg" alt="Nature" style="width:100%">
+    <div class="w3-container">
+      <h3><b>Makong Riverside</b></h3>
+      <h5>Title description, <span class="w3-opacity">December 23, 2017</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>&nbsp&nbsp หนองคายมีการจัดการน้ำโดยการทำแนวกันตะลิ่งพัง และทำทางเดินยาว
+        ทอดตามแม่น้ำโขงประมาณ 10กม.
+        ตั้งแต่จากสะพานมิตรภาพไทยลาว ถึงวัดธาตุ (พระธาตุกลางน้ำ)</p>
+    </div>
+  </div>
+  <hr>
+
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+  <img src="./img/Rimkong3.jpg" alt="Norway" style="width:100%">
+    <div class="w3-container">
+      <h3><b>Makong Riverside</b></h3>
+      <h5>Title description, <span class="w3-opacity">December 23, 2017</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>&nbsp&nbsp ซึ่งเป็นทั้งสถานที่ที่ออกกำลังกาย ร้านอาหาร ที่ทำการประมงและการเกษตร </p>
+    </div>
+  </div>
+
+  <div class="w3-card-4 w3-margin w3-white">
+    <img src="./img/Rimkong2.jpg" alt="Norway" style="width:100%">
+      <div class="w3-container">
+        <h3><b>Makong Riverside</b></h3>
+        <h5>Title description, <span class="w3-opacity">December 23, 2017</span></h5>
+      </div>
+  
+      <div class="w3-container">
+        <p>บรรยากาศยามเย็น เหมาะแก่การไปเดินเล่น พักผ่อน </p>
+      </div>
+    </div>
+
+    <div class="w3-card-4 w3-margin w3-white">
+      <img src="./img/Rimkong4.jpg" alt="Norway" style="width:100%">
+        <div class="w3-container">
+          <h3><b>Makong Riverside</b></h3>
+          <h5>Title description, <span class="w3-opacity">December 23, 2017</span></h5>
+        </div>
+    
+        <div class="w3-container">
+          <p>&nbsp&nbsp นอกจากนี้ช่วงฤดูร้อน จะมีหาดริมแม่น้ำโขงเรียกว่า
+              หาดจอมมณี เป็นที่พักผ่อนหย่อนใจ มีร้านอาหารริมหาดคล้ายๆกับทะเลเลยที่เดียว
+              หาดจะอยู่บริเวณใต้สะพานไทยลาว มีทางลงหาดใกล้กับสะพาน</p>
+        </div>
+      </div>
+
+      <div class="w3-card-4 w3-margin w3-white">
+        <img src="./img/Rimkong5.jpg" alt="Norway" style="width:100%">
+          <div class="w3-container">
+            <h3><b>Makong Riverside</b></h3>
+            <h5>Title description, <span class="w3-opacity">December 23, 2017</span></h5>
+          </div>
+      
+          <div class="w3-container">
+            <p>&nbsp&nbsp นอกจากนี้ จะพบเห็น พระธาตุกลางน้ำ ได้อีกด้วย
+                พระธาตุกลางน้ำเดินอยู่ริมแม่น้ำโขงแต่เมื่อน้ำหลากได้จัดพาพระธาตุจมลงกลางแม่น้ำโขง
+                จึงเป็นตำนานถึงพระธาตุเเห่งเมืองบาดาน </p>
+          </div>
+        </div>
+
+        <div class="w3-card-4 w3-margin w3-white">
+          <img src="./img/Rimkong6.jpg" alt="Norway" style="width:100%">
+            <div class="w3-container">
+              <h3><b>Makong Riverside</b></h3>
+              <h5>Title description, <span class="w3-opacity">December 23, 2017</span></h5>
+            </div>
+        
+            <div class="w3-container">
+              <p>&nbsp&nbsp บรรยากาศยามเย็น ที่ถนนริมแม่น้ำโขงหน้าวัดลำดวน จะมีลานกว้างเป็นลานอเนกประสงค์ ซึ่งมีรูปปั้นพญานาคคู่ สวยงาม เหมาะแก่การไปถ่ายภาพ</p>
+            </div>
+          </div><hr>
+</div>
+
+<div class="w3-col l4">
+  <div class="w3-card w3-margin w3-margin-top">
+  <img src="./img/Nongkhai.jpg" style="width:100%">
+    <div class="w3-container w3-white">
+      <h4><b>Travel Guide</b></h4>
+      <p><b>หนองคาย เมืองน่าอยู่อันดับ 7 ของโลก กับ 7 ที่ ที่ต้องไป</b></p>
+      <p>&nbsp&nbsp จังหวัดหนองคาย เป็นจังหวัดเล็กๆติดกับแม่น้ำโขง และประเทศลาว หลายๆคนรู้จักในฐานะเป็นทางผ่านไปเที่ยว เวียงจันทน์ ประเทศลาว
+        แต่มีสถานที่ท่องเที่ยวสวยงามหลายแห่ง ในวันนี้ขอแนะนำสถานที่ท่องเที่ยวในเขตรอบตัวเมืองที่ต้องไปเที่ยวแบบห้ามพลาด เที่ยวแบบวันเดียว ใกล้ๆง่ายๆไม่หลงทางกัน</p>
+        <br>
+        <h4><p><a href="RiverSideMap.html">Go to Google Map</a></p><?php include("facebook_like.php") ?> </h4>
+        
+    </div>
+  </div><hr>
+</div>
+
+</div><br>
+
+</div>
+
+<!-- Footer -->
+  <footer class="w3-container w3-black w3-center w3-padding-30 w3-margin-top">
+
+    <p><a href="IndexTravel.php" target="_blank">Back</a></p>
+  </footer></body>
+</html>
